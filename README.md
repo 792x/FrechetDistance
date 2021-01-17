@@ -8,4 +8,3 @@ This jupyter notebook is intended as a gentle primer to the concept of the Fréc
 * Eiter, Thomas; Mannila, Heikki (1994), Computing discrete Fréchet distance, Tech. Report CD-TR 94/64, Christian Doppler Laboratory for Expert Systems, TU Vienna, Austria.
 
 * 	Har-Peled, Sariel; Raichel, Benjamin (2014), The fréchet distance revisited and extended. ACM Trans. Algorithms 10, 1, Article 3 (January 2014), 22 pages.
-
