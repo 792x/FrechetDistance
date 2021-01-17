@@ -1,6 +1,8 @@
 # FrechetDistance
 This jupyter notebook is intended as a gentle primer to the concept of the Fréchet distance. It includes several algorithms for both the decision and minimization problem for a discrete, continuous and weak variant of the Fréchet distance. Calculation is done symbolically using the sympy library and (interactive) visualizations are included where necessary.
 
+It is recommended to run the notebook in a jupyter or Google colab instance to be able to see and interact with the various visualizations and animations.
+
 
 ### References
 * Alt, Helmut; Godau, Michael (1995), "Computing the Fréchet distance between two polygonal curves", International Journal of Computational Geometry and Applications, 5 (1–2): 75–91, doi:10.1142/S0218195995000064.
