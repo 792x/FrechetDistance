@@ -1,5 +1,5 @@
 # FrechetDistance
-This notebook is intended as a gentle primer to the concept of the Fréchet distance. It includes several algorithms for the decision and minimization problem for a discrete, continuous and weak variant of the Fréchet distance.
+This notebook is intended as a gentle primer to the concept of the Fréchet distance. It includes several algorithms for both the decision and minimization problem for a discrete, continuous and weak variant of the Fréchet distance.
 
 
 ### References
